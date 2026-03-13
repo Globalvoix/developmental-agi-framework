@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19007209.svg)](https://doi.org/10.5281/zenodo.19007209)
 # Developmental AGI (D-AGI)
 
 ## Proof of a Staged Architectural Pathway to Artificial General Intelligence
