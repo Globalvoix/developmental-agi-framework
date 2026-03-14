@@ -64,50 +64,6 @@ The hypothesis that **the order of learning is more critical than the total para
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-Paper/
-│   └── Developmental_AGI_Final.pdf    # Full research paper
-
-Core_Proofs/
-│   ├── stage1_toddler.py              # Internal differentiation proof
-│   ├── stage2_school.py               # Lie detection & grounding
-│   └── stage3_puberty.py              # Emergent ethics & identity
-
-Experiments/
-│   ├── hallucination_gap.py           # Hallucination signal measurement
-│   └── scale_invariance_test.py       # Multi-model consistency data
-
-Results/
-    └── Raw .json data and .png plots
-```
-
----
-
-## 🛠️ Getting Started
-
-To replicate the **Stage 1 findings (Internal Differentiation):**
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Globalvoix/developmental-agi-framework
-```
-
-2. Install dependencies:
-
-```bash
-pip install transformer_lens torch matplotlib scikit-learn
-```
-
-3. Run the baseline experiment:
-
-```bash
-python Core_Proofs/stage1_toddler.py
-```
-
----
 
 ## 📜 Citation
 
